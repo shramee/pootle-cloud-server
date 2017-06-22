@@ -1,2 +1,2 @@
 # pootle-cloud-server
-A happy place
+Business logic behind poodle cloud
